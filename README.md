@@ -19,8 +19,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/single-price-grid-component---solution-fgxidpNku-)
+- Live Site URL: [Add live site URL here](https://juliabravo.github.io/single_price_grid/)
 
 ## My process
 
